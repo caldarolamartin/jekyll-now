@@ -13,15 +13,15 @@ permalink: /research/
 
 * **April 2010 - March 2015: PhD in Physics**. Quantum Electronics Laboratory](http://www.lec.df.uba.ar/en). [Faculty of Exact and Natural Sciences](https://exactas.uba.ar/). [University of Buenos Aires](http://www.uba.ar/)
 
-Dissertation title: 'Design and application of advanced microscopies for problems in cellular mechanotransduction and nanoplasmonics'(full text in Spanish)
+	Dissertation title: 'Design and application of advanced microscopies for problems in cellular mechanotransduction and nanoplasmonics'(full text in Spanish)
 
-Advisor: Prof. Dr. Andrea V. Bragas
+	Advisor: Prof. Dr. Andrea V. Bragas
 
 * **March 2005 - March 2010: _Licencitura_ in Physics.** Faculty of Exact and Natural Sciences, University of Buenos Aires.
 
-Dissertation title: 'Solitonic light source tunable by power.' 
+	Dissertation title: 'Solitonic light source tunable by power.' 
 
-Advisor: Prof. Dr. Andrea V. Bragas
+	Advisor: Prof. Dr. Andrea V. Bragas
 
 ## Research interests
 
