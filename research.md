@@ -5,5 +5,5 @@ permalink: /research/
 ---
 
 
-This is a list of my publications. 
+Research items.
 
