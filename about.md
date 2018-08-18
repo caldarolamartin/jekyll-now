@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 ---
 
-I am an experimental physicist working on nanophotonics problems and their application to biological questions. 
+I am an experimental physicist working on nanophotonics field. I enjoy developing state-of-the-art photonics tools to attack biophysical problems. 
 
 Since July 2018, I am a [Kavli postdoctoral fellow](http://kavli.tudelft.nl/kavli-postdoctoral-fellowships/) at the [Kavli Institute of Nanoscience Delft (KIND)](http://kavli.tudelft.nl/) at the [Technical University Delft](https://www.tudelft.nl/), The Netherlands. I work in a collaborative project between the [Kuipers lab](http://kuiperslab.tudelft.nl/pages/kuipers/) at the [Quantum Nanoscience Department](https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/quantum-nanoscience/) (QN) and the [Aubin-Tam Lab](https://sites.google.com/site/aubintamgroup/) at the [Bionanoscience department](https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/bionanoscience/) (BN). The project aims combine state-of-the-art nanophotonic structures and tailored light fields to develop a new label-free single-molecule optical method.
 
