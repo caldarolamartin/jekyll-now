@@ -1,7 +1,0 @@
----
-title:  "Test"
-date:   2018-08-18 18:38:00
-categories: [updates]
-tags: [test_1]
----
-TEST 

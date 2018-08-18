@@ -20,11 +20,11 @@ diffusing single molecules in plasmonic near fields. The Journal of chemical phy
 with Optically Resonant Dielectric Nanostructures. Advanced Optical Materials 6, 5, 1701094 (2018) ([Journal Cover](https://onlinelibrary.wiley.com/toc/21951071/2018/6/5)) [(link)](https://onlinelibrary.wiley.com/doi/abs/10.1002/adom.201701094).
 
 * Carattino, A., **Caldarola, M**. and Orrit, M. Gold nanoparticles as absolute nanothermometers.
-Nano Letters 18, 2, 874-880.
+Nano Letters 18, 2, 874-880. ([link](https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.7b04145))
 
 * Zhang, W., **Caldarola, M**., Pradhan, B. and M. Orrit. Gold Nanorod Enhanced
 Fluorescence Enables Single-Molecule Electrochemistry of Methylene Blue. Angewandte
-Chemie International Edition, 56(13), 3566-3569.
+Chemie International Edition, 56(13), 3566-3569. ([link](https://onlinelibrary.wiley.com/doi/abs/10.1002/ange.201612389))
 
 * von Bilderling, C., **Caldarola, M**., Masip, M. E., Bragas, A. V., Pietrasanta, L. I., Monitoring
 in real-time focal adhesion protein dynamics in response to a discrete mechanical
