@@ -23,6 +23,6 @@ permalink: /research/
 
 * Single-molecule biophysics.
 * Nanophotonics: nanoscale confinement of light.
-* Light-matter interactions in the nanoscale. Enhancement of optical signals.  
+* Light-matter interactions in the nanoscale. Enhancement of optical signals using nanoantennas.  
 * Heat generation and propagation in the nanoscale.
 
