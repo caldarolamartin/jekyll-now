@@ -4,6 +4,7 @@
 
 # Name of your site (displayed in the header)
 name: Martin Caldarola
+title: Martin Caldarola
 
 # Short bio or description (displayed in the header)
 description: Kavli Postdoctoral Fellow 
@@ -21,7 +22,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: caldarolamartin/caldarolamartin.github.io
+  github: caldarolamartin
   instagram:
   linkedin:
   pinterest:
