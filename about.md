@@ -15,7 +15,7 @@ I studied physics at the University of Buenos Aires, Argentina. I did my PhD at 
 My hobbies are playing tennis and training triathlon. I particularly outdoors activities and Mediterranean food.
 
 
-### Contact
+## Contact
 
 [m.caldarola@tudelft.nl](mailto:m.caldarola@tudelft.nl)
 
