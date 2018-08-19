@@ -5,7 +5,7 @@ categories: [updates]
 tags: [Weichun Zhang, PhD defense, Leiden University, Academic Gebouw]
 ---
 
-![cover]({{ site.baseurl }}/images/weichun_cover.png "Thesis Cover"){: height="97px" width="70px"}
+![cover]({{ site.baseurl }}/images/weichun_cover.png "Thesis Cover"){:style="float: right;margin-right: 97px;margin-top: 70px;"}
 
 I am very proud to see Weichun Zhang getting his PhD degree today! Congratulations, Weichun! 
  
@@ -16,4 +16,7 @@ It was my honor co-supervise him, with Prof. Michel Orrit, and share long hours 
 I wish him all the best for his next position!
 
 
+{% comment %}
+{: height="97px" width="70px"}
+{% endcomment %}
 
