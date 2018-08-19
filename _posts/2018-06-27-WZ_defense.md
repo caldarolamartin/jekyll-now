@@ -5,7 +5,7 @@ categories: [updates]
 tags: [Weichun Zhang, PhD defense, Leiden University, Academic Gebouw]
 ---
 
-![cover]({{ site.baseurl }}/images/weichun_cover.png "Thesis Cover"){:style="float: left;margin-right: 97px;margin-top: 70px;"}
+![cover]({{ site.baseurl }}/images/weichun_cover.png "Thesis Cover"){:style="float: left;margin-left: 7px;margin-top: 7px;"}
 
 I am very proud to see Weichun Zhang getting his PhD degree today! Congratulations, Weichun! 
  
